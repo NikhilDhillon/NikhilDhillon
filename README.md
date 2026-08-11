@@ -4,7 +4,7 @@ I'm a Computer Science Honours student and software developer who enjoys buildin
 
 ## Currently working on
 
-[DoNext](https://github.com/NikhilDhillon/DoNext), an adaptive semester-planning platform.
+[DoNext](https://github.com/NikhilDhillon/DoNext) is an adaptive academic-planning platform designed to turn scattered course information into a clear, actionable semester plan. It imports course outlines, extracts deadlines and grading structures for review, and combines them with a student's goals, commitments, sleep, and availability. Its scheduling and academic-impact tools help students decide what to work on next, understand which tasks matter most, and adapt the plan as priorities change.
 
 ## Technologies
 
